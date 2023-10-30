@@ -1,0 +1,7 @@
+//BEGIN
+let square = n => n * n;
+
+let x = square(5);
+
+console.log(x); // 25
+//END
